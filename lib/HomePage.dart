@@ -7,7 +7,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Class 6 Assignment-App Drawer'),
+        title: Text('Class 4&5 Assignment-App Drawer'),
       ),
       drawer: Drawer(
         child: ListView(
